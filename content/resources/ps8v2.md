@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps8v2.pdf
-type: OCWFile
 uid: 06c45ba5-cee9-7ba6-dcff-bcd49e7500b8
 ---

@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: oralfinalv2.pdf
-type: OCWFile
 uid: 3e37eb9f-8f63-e48b-13bf-982297b7996d
 ---
