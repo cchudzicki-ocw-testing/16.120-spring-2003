@@ -9,7 +9,7 @@ uid: 79e95e71-4c39-696c-bb41-3c1d00a08370
 
 Both the midterm and final exams in 16.120 were conducted orally. Students were given the problems in advance, and alloted time to devise solutions. Each student would then present their solutions to the instructors. In contrast to a written exam, the format allows for dialog between faculty and student, often allowing more accurate evaluation.
 
-Final Oral Exam (also available in [PDF]({{< baseurl >}}/resources/oralfinalv2))
+Final Oral Exam (also available in {{< resource_link 3e37eb9f-8f63-e48b-13bf-982297b7996d "PDF" >}})
 --------------------------------------------------------------------------------
 
 Do both problems.
