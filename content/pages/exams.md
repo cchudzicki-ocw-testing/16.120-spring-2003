@@ -22,7 +22,7 @@ Problem 2.
 
 Consider a row of guide vanes in a compressible internal flow as shown below. There is a pressure probe at a measurement location a distance L upstream of the blade row. At time t=t0, the setting of the blades is changed suddenly such that they assume the position denoted by the solid blades, perturbing the mass flow in a one-dimensional sense.
 
-{{< resource 664a5d53-1ca3-9057-7eef-5ca592fadab3 "" >}}
+{{< resource "664a5d53-1ca3-9057-7eef-5ca592fadab3" >}}
 
 a) What are the governing equations representing the flow field in this situation?
 
