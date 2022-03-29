@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 79e95e71-4c39-696c-bb41-3c1d00a08370
 resourcetype: Document
 title: oralfinalv2.pdf
 uid: 3e37eb9f-8f63-e48b-13bf-982297b7996d

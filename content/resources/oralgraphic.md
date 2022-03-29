@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 79e95e71-4c39-696c-bb41-3c1d00a08370
 resourcetype: Image
 title: oralgraphic.jpg
 uid: 664a5d53-1ca3-9057-7eef-5ca592fadab3
