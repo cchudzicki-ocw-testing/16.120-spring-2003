@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course assignments and lecture material most
+  relevant to the problems.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
