@@ -5,6 +5,7 @@ file: /courses/16-120-compressible-flow-spring-2003/3e37eb9f8f63e48b13bf982297b7
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
